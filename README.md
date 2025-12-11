@@ -5,7 +5,7 @@ Jahnavi Karanam - Portfolio Website
 
 🌐 Live Website
 
-Visit my portfolio: https://jahnavikuruvalli.github.io
+Visit my portfolio: https://jahnavikuruvalli.github.io/Portfolio/
 
 📋 About
 
